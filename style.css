@@ -1,14 +1,14 @@
 :root {
-    --primary: #b89f83; /* Azul crepúsculo - profundidade e mistério */
-    --secondary: #2c3e50; /* Dourado envelhecido - sofisticação e aconchego */
-    --accent: #eae6e3; /* Azul petróleo - profundidade e imensidão */
-    --text-color: #1f3b57; /* Bege quase branco - leitura suave */
-    --glow-color: rgba(184, 159, 131, 0.4); /* Dourado difuso - brilho etéreo */
-    --background: linear-gradient(45deg, #161b22, #2c3e50); /* Azul carvão com degrade suave */
-    --border-color: #a5b38d; /* Verde seco - estrutura natural e harmonia */
-    --shadow-color: rgba(31, 59, 87, 0.4); /* Sombra difusa e misteriosa */
-    --border-radius: 14px; /* Cantos arredondados para fluidez */
-    --transition: all 0.4s ease-in-out;
+  --primary: #7a9e9c; /* Verde-azulado mais escuro - frescor com presença */
+  --secondary: #40515f; /* Azul petróleo escuro - estabilidade e profundidade */
+  --accent: #e3d4c6; /* Bege rosado - suavidade etérea */
+  --text-color: #2b333a; /* Azul grafite - melhor legibilidade */
+  --glow-color: rgba(122, 158, 156, 0.4); /* Verde-azulado difuso */
+  --background: linear-gradient(45deg, #d6e3e2, #a8c3c0); /* Fundo suave e arejado */
+  --border-color: #617c7a; /* Verde acinzentado - estrutura e equilíbrio */
+  --shadow-color: rgba(64, 81, 95, 0.3); /* Sombra azul petróleo */
+  --border-radius: 10px;
+  --transition: all 0.4s ease-in-out;
 }
   
   * {
